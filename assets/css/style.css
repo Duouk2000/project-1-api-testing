@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(228, 43, 105);
+    background-image: linear-gradient(to left, rgb(228, 43, 105), rgb(61, 241, 202));
+ }
+
+img {
+    border-style: solid;
+    max-width: 100%;
+    height: auto;
+ }
+
+#author, #book, #drinkName, #category  {
+   font-size:x-large;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+ }
